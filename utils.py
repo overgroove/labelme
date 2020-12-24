@@ -4,7 +4,6 @@ Tools for processing DLT log
 
 Created on Wed Jan 29 14:55:38 2020
 
-@author: 1622628
 """
 
 import os
